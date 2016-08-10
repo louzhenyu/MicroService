@@ -1,0 +1,10 @@
+F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Access\bin\Debug\ZMind.Activity.DBAccess.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Access\bin\Debug\ZMind.Activity.DBAccess.pdb
+F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Access\bin\Debug\Dapper.Contrib.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Access\bin\Debug\Dapper.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Access\bin\Debug\ZMind.Activity.DBEntity.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Access\bin\Debug\ZMind.Activity.DBEntity.pdb
+F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Access\bin\Debug\Dapper.xml
+F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Access\obj\Debug\ZMind.Activity.DBAccess.csprojResolveAssemblyReference.cache
+F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Access\obj\Debug\ZMind.Activity.DBAccess.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Access\obj\Debug\ZMind.Activity.DBAccess.pdb

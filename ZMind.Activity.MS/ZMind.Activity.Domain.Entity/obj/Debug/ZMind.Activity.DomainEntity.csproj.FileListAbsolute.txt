@@ -1,0 +1,5 @@
+F:\work\ZMind.Activity.MS\ZMind.Activity.Domain.Entity\bin\Debug\ZMind.Activity.DomainEntity.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.Domain.Entity\bin\Debug\ZMind.Activity.DomainEntity.pdb
+F:\work\ZMind.Activity.MS\ZMind.Activity.Domain.Entity\obj\Debug\ZMind.Activity.DomainEntity.csprojResolveAssemblyReference.cache
+F:\work\ZMind.Activity.MS\ZMind.Activity.Domain.Entity\obj\Debug\ZMind.Activity.DomainEntity.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.Domain.Entity\obj\Debug\ZMind.Activity.DomainEntity.pdb

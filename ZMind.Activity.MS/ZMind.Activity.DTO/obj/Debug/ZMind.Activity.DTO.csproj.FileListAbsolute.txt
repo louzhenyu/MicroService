@@ -1,0 +1,5 @@
+F:\work\ZMind.Activity.MS\ZMind.Activity.DTO\bin\Debug\ZMind.Activity.DTO.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.DTO\bin\Debug\ZMind.Activity.DTO.pdb
+F:\work\ZMind.Activity.MS\ZMind.Activity.DTO\obj\Debug\ZMind.Activity.DTO.csprojResolveAssemblyReference.cache
+F:\work\ZMind.Activity.MS\ZMind.Activity.DTO\obj\Debug\ZMind.Activity.DTO.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.DTO\obj\Debug\ZMind.Activity.DTO.pdb

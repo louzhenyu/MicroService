@@ -1,0 +1,13 @@
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\bin\ZMind.Activity.WebAPI.dll.config
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\bin\ZMind.Activity.WebAPI.dll
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\bin\ZMind.Activity.WebAPI.pdb
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\bin\Antlr3.Runtime.dll
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\bin\Newtonsoft.Json.dll
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\bin\System.Web.Mvc.dll
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\bin\Microsoft.Web.Infrastructure.xml
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\bin\System.Web.Mvc.xml
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\bin\Antlr3.Runtime.pdb
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\obj\Debug\ZMind.Activity.WebAPI.csprojResolveAssemblyReference.cache
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\obj\Debug\ZMind.Activity.WebAPI.dll
+F:\work\IdentityServer\ZMind.Activity.MS\ZMind.Activity.WebAPI\obj\Debug\ZMind.Activity.WebAPI.pdb

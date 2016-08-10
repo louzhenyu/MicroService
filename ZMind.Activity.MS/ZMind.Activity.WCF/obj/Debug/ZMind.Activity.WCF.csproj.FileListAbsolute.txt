@@ -1,0 +1,6 @@
+F:\work\ZMind.Activity.MS\ZMind.Activity.WCF\bin\ZMind.Activity.WCF.dll.config
+F:\work\ZMind.Activity.MS\ZMind.Activity.WCF\bin\ZMind.Activity.WCF.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.WCF\bin\ZMind.Activity.WCF.pdb
+F:\work\ZMind.Activity.MS\ZMind.Activity.WCF\obj\Debug\ZMind.Activity.WCF.csprojResolveAssemblyReference.cache
+F:\work\ZMind.Activity.MS\ZMind.Activity.WCF\obj\Debug\ZMind.Activity.WCF.dll
+F:\work\ZMind.Activity.MS\ZMind.Activity.WCF\obj\Debug\ZMind.Activity.WCF.pdb
