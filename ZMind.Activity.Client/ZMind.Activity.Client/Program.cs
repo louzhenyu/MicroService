@@ -22,7 +22,7 @@ namespace ZMind.Activity.Client
             var client = new HttpClient();
             client.SetBearerToken(response.AccessToken);
 
-            Console.WriteLine(client.GetStringAsync("http://localhost:56402/activity?activityId=1").Result);
+            Console.WriteLine(client.GetStringAsync("http://localhost:3880/api/activity?activityId=1").Result);
         }
         static TokenResponse GetUserToken()
         {

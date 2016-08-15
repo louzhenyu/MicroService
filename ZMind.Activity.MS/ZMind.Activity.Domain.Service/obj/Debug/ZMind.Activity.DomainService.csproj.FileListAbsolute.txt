@@ -3,3 +3,8 @@ F:\work\ZMind.Activity.MS\ZMind.Activity.Domain.Service\bin\Debug\ZMind.Activity
 F:\work\ZMind.Activity.MS\ZMind.Activity.Domain.Service\obj\Debug\ZMind.Activity.DomainService.csprojResolveAssemblyReference.cache
 F:\work\ZMind.Activity.MS\ZMind.Activity.Domain.Service\obj\Debug\ZMind.Activity.DomainService.dll
 F:\work\ZMind.Activity.MS\ZMind.Activity.Domain.Service\obj\Debug\ZMind.Activity.DomainService.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.Domain.Service\bin\Debug\ZMind.Activity.DomainService.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.Domain.Service\bin\Debug\ZMind.Activity.DomainService.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.Domain.Service\obj\Debug\ZMind.Activity.DomainService.csprojResolveAssemblyReference.cache
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.Domain.Service\obj\Debug\ZMind.Activity.DomainService.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.Domain.Service\obj\Debug\ZMind.Activity.DomainService.pdb

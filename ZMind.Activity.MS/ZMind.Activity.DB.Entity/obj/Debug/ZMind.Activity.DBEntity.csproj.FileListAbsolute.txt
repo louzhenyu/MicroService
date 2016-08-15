@@ -6,3 +6,11 @@ F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Entity\bin\Debug\Dapper.xml
 F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Entity\obj\Debug\ZMind.Activity.DBEntity.csprojResolveAssemblyReference.cache
 F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Entity\obj\Debug\ZMind.Activity.DBEntity.dll
 F:\work\ZMind.Activity.MS\ZMind.Activity.DB.Entity\obj\Debug\ZMind.Activity.DBEntity.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.DB.Entity\bin\Debug\ZMind.Activity.DBEntity.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.DB.Entity\bin\Debug\ZMind.Activity.DBEntity.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.DB.Entity\bin\Debug\Dapper.Contrib.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.DB.Entity\bin\Debug\Dapper.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.DB.Entity\bin\Debug\Dapper.xml
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.DB.Entity\obj\Debug\ZMind.Activity.DBEntity.csprojResolveAssemblyReference.cache
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.DB.Entity\obj\Debug\ZMind.Activity.DBEntity.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.MS\ZMind.Activity.DB.Entity\obj\Debug\ZMind.Activity.DBEntity.pdb

@@ -11,3 +11,13 @@ F:\work\ZMind.Activity.Client\ZMind.Activity.Client\obj\Debug\ZMind.Activity.Cli
 F:\work\IdentityServer\ZMind.Activity.Client\ZMind.Activity.Client\bin\Debug\ZMind.Activity.Client.exe.config
 F:\work\IdentityServer\ZMind.Activity.Client\ZMind.Activity.Client\obj\Debug\ZMind.Activity.Client.exe
 F:\work\IdentityServer\ZMind.Activity.Client\ZMind.Activity.Client\obj\Debug\ZMind.Activity.Client.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.Client\ZMind.Activity.Client\bin\Debug\ZMind.Activity.Client.exe.config
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.Client\ZMind.Activity.Client\obj\Debug\ZMind.Activity.Client.exe
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.Client\ZMind.Activity.Client\obj\Debug\ZMind.Activity.Client.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.Client\ZMind.Activity.Client\bin\Debug\ZMind.Activity.Client.exe
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.Client\ZMind.Activity.Client\bin\Debug\ZMind.Activity.Client.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.Client\ZMind.Activity.Client\bin\Debug\IdentityModel.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.Client\ZMind.Activity.Client\bin\Debug\Newtonsoft.Json.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.Client\ZMind.Activity.Client\bin\Debug\IdentityModel.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.Client\ZMind.Activity.Client\bin\Debug\Newtonsoft.Json.xml
+F:\work\IdentityServer\ZMind.Activity\ZMind.Activity.Client\ZMind.Activity.Client\obj\Debug\ZMind.Activity.Client.csprojResolveAssemblyReference.cache
