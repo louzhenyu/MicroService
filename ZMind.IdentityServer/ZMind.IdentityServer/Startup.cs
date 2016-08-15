@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+using IdentityAdmin.Configuration;
 using IdentityManager.Configuration;
 using IdentityManager.Core.Logging;
 using IdentityManager.Logging;
@@ -22,6 +23,8 @@ using Owin;
 using Serilog;
 using ZMind.IdentityServer.IdMgr;
 using ZMind.IdentityServer.IdSvr;
+using ZMind.IdentityServer.IdAdmin;
+using Factory = ZMind.IdentityServer.IdSvr.Factory;
 
 namespace ZMind.IdentityServer
 {
@@ -35,7 +38,7 @@ namespace ZMind.IdentityServer
                .WriteTo.Trace()
                .CreateLogger();
 
-            app.Map("/admin", adminApp =>
+            app.Map("/UserAdmin", adminApp =>
             {
                 var factory = new IdentityManagerServiceFactory();
                 factory.ConfigureSimpleIdentityManagerService("IdSvr3Config");
@@ -43,7 +46,21 @@ namespace ZMind.IdentityServer
                 adminApp.UseIdentityManager(new IdentityManagerOptions()
                 {
                     Factory = factory,
-                    SecurityConfiguration = new LocalhostSecurityConfiguration
+                    SecurityConfiguration = new IdentityManager.Configuration.LocalhostSecurityConfiguration
+                    {
+                        RequireSsl = false
+                    }
+                });
+            });
+
+            app.Map("/Admin", adminApp =>
+            {
+                var factory = new IdentityAdminServiceFactory();
+                factory.Configure();
+                adminApp.UseIdentityAdmin(new IdentityAdminOptions
+                {
+                    Factory = factory,
+                    AdminSecurityConfiguration = new IdentityAdmin.Configuration.LocalhostSecurityConfiguration
                     {
                         RequireSsl = false
                     }

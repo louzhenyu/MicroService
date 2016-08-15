@@ -91,3 +91,7 @@ F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\obj\Debug\ZMind.IdentityServer.csprojResolveAssemblyReference.cache
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\obj\Debug\ZMind.IdentityServer.dll
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\obj\Debug\ZMind.IdentityServer.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\IdentityServer3.Admin.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\IdentityServer3.Admin.EntityFramework.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\IdentityServer3.Admin.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\IdentityServer3.Admin.EntityFramework.pdb
