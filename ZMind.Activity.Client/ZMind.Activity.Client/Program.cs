@@ -31,7 +31,7 @@ namespace ZMind.Activity.Client
                 "ro.client",
                 "secret");
 
-            return client.RequestResourceOwnerPasswordAsync("bob", "bobbob", "ActivityApi").Result;
+            return client.RequestResourceOwnerPasswordAsync("terry", "kkndkknd", "ActivityApi").Result;
         }
     }
 }

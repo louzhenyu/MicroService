@@ -95,3 +95,17 @@ F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\IdentityServer3.Admin.EntityFramework.dll
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\IdentityServer3.Admin.pdb
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\IdentityServer3.Admin.EntityFramework.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\Config\AppSetting.Dev.config
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\Config\AppSetting.Product.config
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\Config\AppSetting.Test.config
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\Config\Database.Dev.config
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\Config\Database.Product.config
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\Config\Database.Test.config
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\IdentityServer3.Contrib.Cache.Redis.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\StackExchange.Redis.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\StackExchange.Redis.Extensions.Core.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\StackExchange.Redis.Extensions.Newtonsoft.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\StackExchange.Redis.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\StackExchange.Redis.xml
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\StackExchange.Redis.Extensions.Core.xml
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\StackExchange.Redis.Extensions.Newtonsoft.xml

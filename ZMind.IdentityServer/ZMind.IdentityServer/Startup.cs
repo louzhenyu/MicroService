@@ -22,7 +22,6 @@ using IdentityServer3.Core.Configuration;
 using Owin;
 using Serilog;
 using ZMind.IdentityServer.IdMgr;
-using ZMind.IdentityServer.IdSvr;
 using ZMind.IdentityServer.IdAdmin;
 using Factory = ZMind.IdentityServer.IdSvr.Factory;
 
