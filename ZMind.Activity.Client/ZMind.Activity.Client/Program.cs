@@ -28,7 +28,7 @@ namespace ZMind.Activity.Client
         {
             var client = new TokenClient(
                 "http://localhost:5000/connect/token",
-                "ro.client",
+                "TestClient",
                 "secret");
 
             return client.RequestResourceOwnerPasswordAsync("terry", "kkndkknd", "ActivityApi").Result;

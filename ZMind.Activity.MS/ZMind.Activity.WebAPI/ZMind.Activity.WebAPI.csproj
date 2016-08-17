@@ -215,6 +215,7 @@
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
     <Content Include="Config\AppSetting.Dev.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="Config\AppSetting.Product.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
