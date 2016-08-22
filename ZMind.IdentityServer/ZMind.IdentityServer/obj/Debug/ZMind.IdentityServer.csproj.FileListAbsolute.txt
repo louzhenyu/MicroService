@@ -109,3 +109,5 @@ F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\StackExchange.Redis.xml
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\StackExchange.Redis.Extensions.Core.xml
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\StackExchange.Redis.Extensions.Newtonsoft.xml
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\Microsoft.Owin.Security.Cookies.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\Microsoft.Owin.Security.Cookies.xml

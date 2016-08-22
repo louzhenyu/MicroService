@@ -19,6 +19,7 @@ using IdentityManager.Configuration;
 using IdentityManager.Core.Logging;
 using IdentityManager.Logging;
 using IdentityServer3.Core.Configuration;
+using Microsoft.Owin.Security.Cookies;
 using Owin;
 using Serilog;
 using ZMind.IdentityServer.IdMgr;
@@ -65,7 +66,6 @@ namespace ZMind.IdentityServer
                     }
                 });
             });
-
             var idSvrFactory = Factory.Configure("IdSvr3Config");
             var options = new IdentityServerOptions
             {
@@ -73,7 +73,6 @@ namespace ZMind.IdentityServer
                 Factory = idSvrFactory,
                 RequireSsl = false
             };
-
             app.UseIdentityServer(options);
         }
     }
