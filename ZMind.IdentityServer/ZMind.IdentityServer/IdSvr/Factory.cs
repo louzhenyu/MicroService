@@ -37,18 +37,18 @@ namespace ZMind.IdentityServer.IdSvr
             factory.Register(new Registration<UserStore>());
             factory.Register(new Registration<Context>(resolver => new Context(connString)));
 
-            var redisConnString = ConfigHelper.ConfigHelper.RedisConnString;
-            var options = ConfigurationOptions.Parse(redisConnString);
-            options.AllowAdmin = true;
-            var connection = ConnectionMultiplexer.Connect(options);
-            var cacheClient = new RedisCacheManager(connection);
-            var clientStoreCache = new ClientStoreCache(cacheClient);
-            var scopeStoreCache = new ScopeStoreCache(cacheClient);
-            var userServiceCache = new UserServiceCache(cacheClient);
+            //var redisConnString = ConfigHelper.ConfigHelper.RedisConnString;
+            //var options = ConfigurationOptions.Parse(redisConnString);
+            //options.AllowAdmin = true;
+            //var connection = ConnectionMultiplexer.Connect(options);
+            //var cacheClient = new RedisCacheManager(connection);
+            //var clientStoreCache = new ClientStoreCache(cacheClient);
+            //var scopeStoreCache = new ScopeStoreCache(cacheClient);
+            //var userServiceCache = new UserServiceCache(cacheClient);
 
-            factory.ConfigureClientStoreCache(new Registration<ICache<Client>>(clientStoreCache));
-            factory.ConfigureScopeStoreCache(new Registration<ICache<IEnumerable<Scope>>>(scopeStoreCache));
-            factory.ConfigureUserServiceCache(new Registration<ICache<IEnumerable<Claim>>>(userServiceCache));
+            //factory.ConfigureClientStoreCache(new Registration<ICache<Client>>(clientStoreCache));
+            //factory.ConfigureScopeStoreCache(new Registration<ICache<IEnumerable<Scope>>>(scopeStoreCache));
+            //factory.ConfigureUserServiceCache(new Registration<ICache<IEnumerable<Claim>>>(userServiceCache));
             return factory;
         }
     }
@@ -63,9 +63,9 @@ namespace ZMind.IdentityServer.IdSvr
         protected override async Task<IEnumerable<System.Security.Claims.Claim>> GetClaimsFromAccount(User user)
         {
             var claims = (await base.GetClaimsFromAccount(user)).ToList();
-            if (!String.IsNullOrWhiteSpace(user.Claims.Select(o => o.ClaimType = "ClientId").FirstOrDefault()))
+            if (!String.IsNullOrWhiteSpace(user.Claims.Select(o => o.ClaimType = "CustomerId").FirstOrDefault()))
             {
-                claims.Add(new System.Security.Claims.Claim("ClientId", user.Claims.Select(o => o.ClaimType = "ClientId").FirstOrDefault()));
+                claims.Add(new System.Security.Claims.Claim("CustomerId", user.Claims.Select(o => o.ClaimType = "CustomerId").FirstOrDefault()));
             }
             return claims;
         }
