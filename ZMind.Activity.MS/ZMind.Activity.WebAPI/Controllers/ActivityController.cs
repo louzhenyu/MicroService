@@ -13,8 +13,8 @@ namespace ZMind.Activity.WebAPI.Controllers
     public class ActivityController : ApiController
     {
         private ActivityApplication activityApp = new ActivityApplication();
-        // GET activity?activityId=
-        public ActivityResponse Get(string activityId)
+        [HttpPost]
+        public ActivityResponse Post([FromBody]string activityId)
         {
             var caller = User as ClaimsPrincipal;
 

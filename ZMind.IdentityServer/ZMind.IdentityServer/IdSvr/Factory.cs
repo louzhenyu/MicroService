@@ -63,9 +63,9 @@ namespace ZMind.IdentityServer.IdSvr
         protected override async Task<IEnumerable<System.Security.Claims.Claim>> GetClaimsFromAccount(User user)
         {
             var claims = (await base.GetClaimsFromAccount(user)).ToList();
-            if (!String.IsNullOrWhiteSpace(user.Claims.Select(o => o.ClaimType = "CustomerId").FirstOrDefault()))
+            if (!String.IsNullOrWhiteSpace(user.Claims.Select(o => o.ClaimType = "CustomerID").FirstOrDefault()))
             {
-                claims.Add(new System.Security.Claims.Claim("CustomerId", user.Claims.Select(o => o.ClaimType = "CustomerId").FirstOrDefault()));
+                claims.Add(new System.Security.Claims.Claim("CustomerID", user.Claims.Select(o => o.ClaimType = "CustomerID").FirstOrDefault()));
             }
             return claims;
         }

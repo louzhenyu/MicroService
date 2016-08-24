@@ -61,3 +61,5 @@ F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\obj\Release\ZMind.IdentityServer.csprojResolveAssemblyReference.cache
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\obj\Release\ZMind.IdentityServer.dll
 F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\obj\Release\ZMind.IdentityServer.pdb
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\Microsoft.Owin.Security.Cookies.dll
+F:\work\IdentityServer\ZMind.Activity\ZMind.IdentityServer\ZMind.IdentityServer\bin\Microsoft.Owin.Security.Cookies.xml

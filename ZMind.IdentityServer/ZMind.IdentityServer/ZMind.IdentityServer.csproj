@@ -188,6 +188,7 @@
     </Content>
     <Content Include="Config\Database.Test.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </Content>
     <None Include="Properties\PublishProfiles\IdSvrPublish.pubxml" />
     <None Include="Web.Debug.config">

@@ -22,13 +22,13 @@
       <publishTime>08/16/2016 17:37:32</publishTime>
     </File>
     <File Include="bin/Config/Database.Dev.config">
-      <publishTime>08/16/2016 17:37:32</publishTime>
+      <publishTime>08/17/2016 17:09:13</publishTime>
     </File>
     <File Include="bin/Config/Database.Product.config">
       <publishTime>08/16/2016 17:37:32</publishTime>
     </File>
     <File Include="bin/Config/Database.Test.config">
-      <publishTime>08/16/2016 17:37:32</publishTime>
+      <publishTime>08/22/2016 17:05:17</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>03/02/2015 09:32:26</publishTime>
@@ -72,6 +72,9 @@
     <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
       <publishTime>02/13/2015 13:16:34</publishTime>
     </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>08/19/2016 11:26:12</publishTime>
+    </File>
     <File Include="bin/Microsoft.Owin.Security.dll">
       <publishTime>02/13/2015 13:16:36</publishTime>
     </File>
@@ -106,7 +109,7 @@
       <publishTime>08/16/2016 17:17:18</publishTime>
     </File>
     <File Include="bin/ZMind.IdentityServer.dll">
-      <publishTime>08/16/2016 18:36:06</publishTime>
+      <publishTime>08/24/2016 16:41:16</publishTime>
     </File>
     <File Include="Config/AppSetting.Dev.config">
       <publishTime>08/16/2016 17:37:32</publishTime>
@@ -118,19 +121,22 @@
       <publishTime>08/16/2016 17:37:32</publishTime>
     </File>
     <File Include="Config/Database.Dev.config">
-      <publishTime>08/16/2016 17:37:32</publishTime>
+      <publishTime>08/17/2016 17:09:13</publishTime>
     </File>
     <File Include="Config/Database.Product.config">
       <publishTime>08/16/2016 17:37:32</publishTime>
     </File>
     <File Include="Config/Database.Test.config">
-      <publishTime>08/16/2016 17:37:32</publishTime>
+      <publishTime>08/22/2016 17:05:17</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>08/16/2016 17:17:27</publishTime>
+      <publishTime>08/19/2016 11:26:16</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>08/24/2016 16:41:20</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/16/2016 18:36:07</publishTime>
+      <publishTime>08/22/2016 17:06:58</publishTime>
     </File>
   </ItemGroup>
 </Project>

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using IdentityModel.Client;
@@ -22,7 +23,11 @@ namespace ZMind.Activity.Client
             var client = new HttpClient();
             client.SetBearerToken(response.AccessToken);
 
-            Console.WriteLine(client.GetStringAsync("http://localhost:3880/api/activity?activityId=1").Result);
+            HttpContent content = new StringContent("{\"PosStoreCode\": \"sample string 1\",\"PosOperater\": \"sample string 2\",\"PosSn\": \"sample string 3\",\"Request\": {\"StoreCode\": \"sample string 1\"}}");
+            content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+
+            var result = client.PostAsync("http://localhost:50073/api/QCTCCustom/Unit/UnitDelete", content).Result;
+            Console.WriteLine();
         }
         static TokenResponse GetUserToken()
         {
