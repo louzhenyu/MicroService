@@ -38,3 +38,23 @@ F:\work\IdentityServer\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\Microso
 F:\work\IdentityServer\JavascriptIdSvrSample\JavaScriptResourceOwner\obj\Debug\JavaScript Resource Owner Flow.csprojResolveAssemblyReference.cache
 F:\work\IdentityServer\JavascriptIdSvrSample\JavaScriptResourceOwner\obj\Debug\JavaScriptResourceOwner.dll
 F:\work\IdentityServer\JavascriptIdSvrSample\JavaScriptResourceOwner\obj\Debug\JavaScriptResourceOwner.pdb
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\csc.exe
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\System.Collections.Immutable.dll
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\System.Reflection.Metadata.dll
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\vbc.exe
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\VBCSCompiler.exe
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\roslyn\VBCSCompiler.exe.config
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\JavaScriptResourceOwner.dll.config
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\JavaScriptResourceOwner.dll
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\JavaScriptResourceOwner.pdb
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\obj\Debug\JavaScript Resource Owner Flow.csprojResolveAssemblyReference.cache
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\obj\Debug\JavaScriptResourceOwner.dll
+F:\work\IdentityServer\ZMind.Activity\JavascriptIdSvrSample\JavaScriptResourceOwner\obj\Debug\JavaScriptResourceOwner.pdb

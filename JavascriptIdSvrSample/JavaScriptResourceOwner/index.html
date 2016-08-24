@@ -21,7 +21,7 @@
         var baseUrl = "http://115.159.191.202:902/connect/";
         var tokenUrl = baseUrl + "token";
         var revokeUrl = baseUrl + "revocation";
-
+        var serviceUrl = "http://localhost:3880/api/Activity";
         var client_id = "ro.client";
         var client_secret = "secret";
 
@@ -38,7 +38,8 @@
 
                 var response_data = JSON.parse(xhr.response);
                 if (xhr.status === 200 && response_data.access_token) {
-                    revokeToken(response_data.access_token);
+                    //revokeToken(response_data.access_token);
+                    callService(response_data.access_token);
                 }
             }
             xhr.open("POST", tokenUrl);
@@ -62,6 +63,30 @@
             xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
             xhr.send(body);
         }
+
+        function callService(token) {
+            var xhr = new XMLHttpRequest();
+            xhr.onload = function (e) {
+                console.log(xhr.status);
+                console.log(xhr.response);
+            }
+            xhr.open("POST", serviceUrl);
+            var data = {
+                activityId: 1
+            };
+            var body = "";
+            for (var key in data) {
+                if (body.length) {
+                    body += "&";
+                }
+                body += key + "=";
+                body += encodeURIComponent(data[key]);
+            }
+            xhr.setRequestHeader("Authorization", "Bearer " + token);
+            xhr.setRequestHeader("Content-Type", "application/json");
+            xhr.send(body);
+        }
+
 
         function revokeToken(token) {
             var xhr = new XMLHttpRequest();
