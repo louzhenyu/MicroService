@@ -8,11 +8,11 @@
     <h1>JS-based resource owner sample</h1>
     <div>
         <label>username</label>
-        <input id="username" value="terry" />
+        <input id="username" value="YSZHUserName" />
     </div>
     <div>
         <label>password</label>
-        <input id="password" value="kkndkknd" />
+        <input id="password" value="ksfc5v78nhl" />
     </div>
     <div>
         <button id="button">Get Token</button>
@@ -21,9 +21,9 @@
         var baseUrl = "http://115.159.191.202:902/connect/";
         var tokenUrl = baseUrl + "token";
         var revokeUrl = baseUrl + "revocation";
-        var serviceUrl = "http://localhost:3880/api/Activity";
-        var client_id = "ro.client";
-        var client_secret = "secret";
+        var serviceUrl = " http://182.254.151.86:9046/api/QCTCCustom/Customer/GetCustomerInfo";
+        var client_id = "YSZHClientID";
+        var client_secret = "ytrfvj765mm";
 
         document.getElementById("button").addEventListener("click", getToken, false);
 
@@ -47,7 +47,7 @@
                 username: uid,
                 password: pwd,
                 grant_type: "password",
-                scope: "ActivityApi",
+                scope: "QCTCPosAPI",
                 client_id: client_id,
                 client_secret:client_secret
             };
@@ -68,11 +68,14 @@
             var xhr = new XMLHttpRequest();
             xhr.onload = function (e) {
                 console.log(xhr.status);
-                console.log(xhr.response);
+                console.log(xhr.responseText);
             }
             xhr.open("POST", serviceUrl);
             var data = {
-                activityId: 1
+                "Request": {},
+                "PosStoreCode": "sample string 1",
+                "PosOperater": "sample string 2",
+                "PosSn": "sample string 3"
             };
             var body = "";
             for (var key in data) {
