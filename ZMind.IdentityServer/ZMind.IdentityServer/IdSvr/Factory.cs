@@ -36,7 +36,7 @@ namespace ZMind.IdentityServer.IdSvr
             factory.Register(new Registration<UserManager>());
             factory.Register(new Registration<UserStore>());
             factory.Register(new Registration<Context>(resolver => new Context(connString)));
-
+            
             //var redisConnString = ConfigHelper.ConfigHelper.RedisConnString;
             //var options = ConfigurationOptions.Parse(redisConnString);
             //options.AllowAdmin = true;
